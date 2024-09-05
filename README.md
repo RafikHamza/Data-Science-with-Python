@@ -1,7 +1,6 @@
 # Welcome to Python for Data Science and AI
 
-We are going to use the book of "Foundations of Data Science with Python"
-## by John M. Shea
+We are going to use the book of "Foundations of Data Science with Python" by John M. Shea
 
 Learn data visualization, statistics, probability, and dimensionality reduction using a computational-first approach, without giving up mathematical rigor. A great textbook for an Introduction to Data Science or Engineering Statistics class. 
 
