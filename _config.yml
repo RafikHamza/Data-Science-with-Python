@@ -51,7 +51,7 @@ sphinx:
     notfound_urls_prefix: "/fdsp/"
   #config:
     html_theme_options:
-      repository_url: https://github.com/jmshea/Foundations-of-Data-Science-with-Python
+      repository_url: https://github.com/RafikHamza/Data-Science-with-Python
       use_issues_button: true
       use_download_button: false
       use_repository_button: true
