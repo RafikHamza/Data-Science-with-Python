@@ -1,4 +1,5 @@
 # in _config.yml
+theme: jekyll-theme-minimal
 title: "Foundations of Data Science with Python &mdash; Online Resources"
 author: John M. Shea
 copyright: "2021-2024"
