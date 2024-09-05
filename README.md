@@ -1,4 +1,4 @@
-# Welcome to Python for Data Science and AI
+# Welcome to "Python for Data Science and AI"
 
 We are going to use the book of "Foundations of Data Science with Python" by John M. Shea
 
